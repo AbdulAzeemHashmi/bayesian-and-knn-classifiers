@@ -359,8 +359,8 @@ Keep the `dataset Question2` folder in the same folder as the notebook. The note
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-![Made with](https://img.shields.io/badge/Core%20Models-Built%20From%20Scratch-blueviolet?style=flat-square)
-![Course](https://img.shields.io/badge/Course-Machine%20Learning-667eea?style=flat-square)
-![University](https://img.shields.io/badge/FAST-NUCES-764ba2?style=flat-square)
+![Built From Scratch](https://img.shields.io/badge/Built%20From-Scratch-blueviolet?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Course-Machine%20Learning-667eea?style=for-the-badge&logo=jupyter&logoColor=white)
+![FAST NUCES](https://img.shields.io/badge/University-FAST%20NUCES-764ba2?style=for-the-badge&logo=googlescholar&logoColor=white)
 
 </div>
