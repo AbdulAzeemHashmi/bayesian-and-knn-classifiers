@@ -230,7 +230,6 @@ KNN is about 8.7 times slower than Multinomial Naive Bayes in this run.
 
 ```
 QUESTION 1: MIXED BAYESIAN CLASSIFIER
-=====================================
 
           Input Features
                |
@@ -258,7 +257,6 @@ QUESTION 1: MIXED BAYESIAN CLASSIFIER
 
 
 QUESTION 2: TEXT SENTIMENT CLASSIFIERS
-======================================
 
    Raw review text
          |
