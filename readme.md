@@ -9,13 +9,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Core%20Models-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Question%202-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/AbdulAzeemHashmi/bayesian-and-knn-classifiers?style=flat-square&color=764ba2)
-![GitHub stars](https://img.shields.io/github/stars/AbdulAzeemHashmi/bayesian-and-knn-classifiers?style=flat-square&color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/AbdulAzeemHashmi/bayesian-and-knn-classifiers?style=flat-square&color=blue)
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,jupyter,github" alt="Tools used"/>
 
 </div>
 
@@ -359,8 +355,6 @@ Keep the `dataset Question2` folder in the same folder as the notebook. The note
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-![Built From Scratch](https://img.shields.io/badge/Built%20From-Scratch-blueviolet?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Course-Machine%20Learning-667eea?style=for-the-badge&logo=jupyter&logoColor=white)
-![FAST NUCES](https://img.shields.io/badge/University-FAST%20NUCES-764ba2?style=for-the-badge&logo=googlescholar&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=764BA2&center=true&vCenter=true&width=520&lines=Core+models+built+from+scratch;Machine+Learning+Assignment+1;FAST+NUCES" alt="Footer typing text"/>
 
 </div>
